@@ -1,4 +1,4 @@
-Credit Scoring Model — CodeAlpha Internship
+Credit Scoring Model 
  Project Overview:
 This project is developed as part of the CodeAlpha Machine Learning Internship.
 The objective of this project is to build a Credit Scoring Model that predicts an individual's creditworthiness based on financial and personal data.
